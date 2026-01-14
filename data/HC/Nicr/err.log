@@ -1,0 +1,88 @@
+slurmstepd: error: *** JOB 1122074 ON node634814 CANCELLED AT 2025-12-18T19:03:06 ***
+
+[5370] signal 15: Terminated
+in expression starting at /home/zxli_1/KAP/tUdata/HC/SCEErun.jl:57
+epoll_pwait at /lib64/libc.so.6 (unknown line)
+uv__io_poll at /workspace/srcdir/libuv/src/unix/linux.c:1404
+uv_run at /workspace/srcdir/libuv/src/unix/core.c:430
+ijl_task_get_next at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/scheduler.c:522
+poptask at ./task.jl:1012
+wait at ./task.jl:1021
+#wait#733 at ./condition.jl:130
+wait at ./condition.jl:125 [inlined]
+put_buffered at ./channels.jl:380
+put! at ./channels.jl:358
+unknown function (ip: 0x2b290545e749)
+put! at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/remotecall.jl:703
+#54 at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/cluster.jl:688
+unknown function (ip: 0x2b290545c3cf)
+jl_apply at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/julia.h:2157 [inlined]
+start_task at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/task.c:1202
+unknown function (ip: (nil))
+Allocations: 17841515 (Pool: 17840933; Big: 582); GC: 15
+┌ Warning: Forcibly interrupting busy workers
+│   exception = schedule: Task not runnable
+└ @ Distributed ~/KAP/julia-1.11.7/share/julia/stdlib/v1.11/Distributed/src/cluster.jl:1253
+Worker 7 terminated.
+┌ Error: Unable to terminate all workers
+│   exception =
+│    IOError: stream is closed or unusable
+│    Stacktrace:
+│      [1] check_open
+│        @ ./stream.jl:388 [inlined]
+│      [2] uv_write_async(s::Sockets.TCPSocket, p::Ptr{UInt8}, n::UInt64)
+│        @ Base ./stream.jl:1108
+│      [3] uv_write(s::Sockets.TCPSocket, p::Ptr{UInt8}, n::UInt64)
+│        @ Base ./stream.jl:1069
+│      [4] uv_write
+│        @ ./stream.jl:1065 [inlined]
+│      [5] flush(s::Sockets.TCPSocket)
+│        @ Base ./stream.jl:1163
+│      [6] send_msg_(w::Distributed.Worker, header::Distributed.MsgHeader, msg::Distributed.RemoteDoMsg, now::Bool)
+│        @ Distributed ~/KAP/julia-1.11.7/share/julia/stdlib/v1.11/Distributed/src/messages.jl:187
+│      [7] send_msg
+│        @ ~/KAP/julia-1.11.7/share/julia/stdlib/v1.11/Distributed/src/messages.jl:122 [inlined]
+│      [8] #remote_do#177
+│        @ ~/KAP/julia-1.11.7/share/julia/stdlib/v1.11/Distributed/src/remotecall.jl:532 [inlined]
+│      [9] remote_do
+│        @ ~/KAP/julia-1.11.7/share/julia/stdlib/v1.11/Distributed/src/remotecall.jl:531 [inlined]
+│     [10] remote_do
+│        @ ~/KAP/julia-1.11.7/share/julia/stdlib/v1.11/Distributed/src/remotecall.jl:557 [inlined]
+│     [11] kill(manager::Distributed.LocalManager, pid::Int64, config::WorkerConfig; exit_timeout::Int64, term_timeout::Int64)
+│        @ Distributed ~/KAP/julia-1.11.7/share/julia/stdlib/v1.11/Distributed/src/managers.jl:743
+│     [12] kill
+│        @ ~/KAP/julia-1.11.7/share/julia/stdlib/v1.11/Distributed/src/managers.jl:741 [inlined]
+│     [13] _rmprocs(pids::Vector{Int64}, waitfor::Float64)
+│        @ Distributed ~/KAP/julia-1.11.7/share/julia/stdlib/v1.11/Distributed/src/cluster.jl:1054
+│     [14] rmprocs(pids::Vector{Int64}; waitfor::Float64)
+│        @ Distributed ~/KAP/julia-1.11.7/share/julia/stdlib/v1.11/Distributed/src/cluster.jl:1037
+│     [15] rmprocs
+│        @ ~/KAP/julia-1.11.7/share/julia/stdlib/v1.11/Distributed/src/cluster.jl:1028 [inlined]
+│     [16] terminate_all_workers()
+│        @ Distributed ~/KAP/julia-1.11.7/share/julia/stdlib/v1.11/Distributed/src/cluster.jl:1257
+│     [17] _atexit(exitcode::Int32)
+│        @ Base ./initdefs.jl:451
+└ @ Distributed ~/KAP/julia-1.11.7/share/julia/stdlib/v1.11/Distributed/src/cluster.jl:1259
+Worker 4 terminated.
+Worker 5 terminated.
+Worker 6 terminated.
+UNHANDLED TASK ERROR: EOFError: read end of file
+Stacktrace:
+ [1] (::Base.var"#wait_locked#834")(s::Sockets.TCPSocket, buf::IOBuffer, nb::Int64)
+   @ Base ./stream.jl:979
+ [2] unsafe_read(s::Sockets.TCPSocket, p::Ptr{UInt8}, nb::UInt64)
+   @ Base ./stream.jl:987
+ [3] unsafe_read
+   @ ./io.jl:890 [inlined]
+ [4] unsafe_read(s::Sockets.TCPSocket, p::Base.RefValue{NTuple{4, Int64}}, n::Int64)
+   @ Base ./io.jl:889
+ [5] read!
+   @ ./io.jl:894 [inlined]
+ [6] deserialize_hdr_raw
+   @ ~/KAP/julia-1.11.7/share/julia/stdlib/v1.11/Distributed/src/messages.jl:167 [inlined]
+ [7] message_handler_loop(r_stream::Sockets.TCPSocket, w_stream::Sockets.TCPSocket, incoming::Bool)
+   @ Distributed ~/KAP/julia-1.11.7/share/julia/stdlib/v1.11/Distributed/src/process_messages.jl:172
+ [8] process_tcp_streams(r_stream::Sockets.TCPSocket, w_stream::Sockets.TCPSocket, incoming::Bool)
+   @ Distributed ~/KAP/julia-1.11.7/share/julia/stdlib/v1.11/Distributed/src/process_messages.jl:133
+ [9] (::Distributed.var"#111#112"{Sockets.TCPSocket, Sockets.TCPSocket, Bool})()
+   @ Distributed ~/KAP/julia-1.11.7/share/julia/stdlib/v1.11/Distributed/src/process_messages.jl:121

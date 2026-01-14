@@ -1,0 +1,299 @@
+2025-12-18 15:26:06  10 processes added.
+model finished in 00:00:02
+      From worker 3:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:05:02
+      From worker 5:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:05:55
+      From worker 7:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:05:58
+      From worker 8:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:06:15
+      From worker 10:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:06:25
+      From worker 6:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:12:04
+      From worker 4:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:12:28
+      From worker 9:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:12:29
+      From worker 2:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:12:44
+      From worker 11:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:12:41
+2025-12-18 17:39:15  All processes finished in 02:13:05
+
+2025-12-18 15:25:54  10 processes added.
+model finished in 00:00:02
+      From worker 9:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:04:50
+      From worker 11:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:05:50
+      From worker 4:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:06:29
+      From worker 3:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:06:38
+      From worker 6:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:06:56
+      From worker 2:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:10:10
+      From worker 10:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:12:29
+      From worker 5:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:12:44
+      From worker 7:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:13:10
+      From worker 8:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:14:18
+2025-12-18 17:40:36  All processes finished in 02:14:38
+
+2025-12-18 14:15:14  10 processes added.
+model finished in 00:00:03
+      From worker 6:	size[15, 15]  Δt0.1  Θ3.0  Sweep 33 finished in 02:39:49
+      From worker 11:	size[15, 15]  Δt0.1  Θ3.0  Sweep 33 finished in 03:20:10
+      From worker 3:	size[15, 15]  Δt0.1  Θ3.0  Sweep 33 finished in 03:23:48
+      From worker 4:	size[15, 15]  Δt0.1  Θ3.0  Sweep 33 finished in 03:24:26
+      From worker 8:	size[15, 15]  Δt0.1  Θ3.0  Sweep 33 finished in 03:24:44
+      From worker 10:	size[15, 15]  Δt0.1  Θ3.0  Sweep 33 finished in 03:25:31
+      From worker 2:	size[15, 15]  Δt0.1  Θ3.0  Sweep 33 finished in 03:26:40
+      From worker 5:	size[15, 15]  Δt0.1  Θ3.0  Sweep 33 finished in 03:26:45
+      From worker 9:	size[15, 15]  Δt0.1  Θ3.0  Sweep 33 finished in 03:26:45
+      From worker 7:	size[15, 15]  Δt0.1  Θ3.0  Sweep 33 finished in 03:27:40
+2025-12-18 17:43:23  All processes finished in 03:28:02
+
+2025-12-18 15:17:00  10 processes added.
+model finished in 00:00:02
+      From worker 4:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:26:41
+      From worker 8:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:27:08
+      From worker 11:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:27:25
+      From worker 9:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:27:44
+      From worker 10:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:28:35
+      From worker 5:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:30:42
+      From worker 3:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:31:18
+      From worker 2:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:32:01
+      From worker 6:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:32:04
+      From worker 7:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:33:21
+2025-12-18 17:50:46  All processes finished in 02:33:40
+
+2025-12-18 15:26:16  10 processes added.
+model finished in 00:00:03
+      From worker 6:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:05:20
+      From worker 3:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:05:30
+      From worker 2:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:05:38
+      From worker 5:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:05:42
+      From worker 10:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:05:53
+      From worker 4:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:06:12
+      From worker 11:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:34:10
+      From worker 8:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:37:38
+      From worker 9:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:38:33
+      From worker 7:	size[18, 18]  Δt0.1  Θ3.0  Sweep 8 finished in 02:38:53
+2025-12-18 18:05:44  All processes finished in 02:39:22
+
+2025-12-18 14:15:13  10 processes added.
+model finished in 00:00:02
+      From worker 4:	
+      From worker 4:	[5404] signal 15: Terminated
+      From worker 4:	in expression starting at none:0
+      From worker 4:	getindex at ./essentials.jl:917 [inlined]
+      From worker 4:	getindex at ./array.jl:930 [inlined]
+      From worker 4:	getindex at ./subarray.jl:320 [inlined]
+      From worker 4:	_getindex at ./abstractarray.jl:1358 [inlined]
+      From worker 4:	getindex at ./abstractarray.jl:1312 [inlined]
+      From worker 4:	iterate at ./abstractarray.jl:1209 [inlined]
+      From worker 4:	copyto_unaliased! at ./abstractarray.jl:1088
+      From worker 4:	copyto! at ./abstractarray.jl:1061 [inlined]
+      From worker 4:	get_abTau2! at /home/zxli_1/KAP/SOURCE/tUDQMC/SCEE.jl:496
+      From worker 4:	ctrl_SCEEicr at /home/zxli_1/KAP/SOURCE/tUDQMC/SCEE.jl:218
+      From worker 4:	macro expansion at /home/zxli_1/KAP/tUdata/HC/SCEErun.jl:66 [inlined]
+      From worker 4:	#3 at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/macros.jl:303
+      From worker 4:	#186 at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/macros.jl:83
+      From worker 4:	unknown function (ip: 0x2b154452634f)
+      From worker 4:	jl_apply at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/julia.h:2157 [inlined]
+      From worker 4:	jl_f__call_latest at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/builtins.c:875
+      From worker 4:	#invokelatest#2 at ./essentials.jl:1055 [inlined]
+      From worker 4:	invokelatest at ./essentials.jl:1052
+      From worker 4:	unknown function (ip: 0x2b15444c9d42)
+      From worker 4:	jl_apply at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/julia.h:2157 [inlined]
+      From worker 4:	do_apply at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/builtins.c:831
+      From worker 4:	#115 at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/process_messages.jl:283
+      From worker 4:	run_work_thunk at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/process_messages.jl:70
+      From worker 4:	unknown function (ip: 0x2b15444d94fb)
+      From worker 4:	run_work_thunk at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/process_messages.jl:79
+      From worker 4:	#108 at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/process_messages.jl:88
+      From worker 4:	unknown function (ip: 0x2b15444d903f)
+      From worker 4:	jl_apply at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/julia.h:2157 [inlined]
+      From worker 4:	start_task at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/task.c:1202
+      From worker 4:	unknown function (ip: (nil))
+      From worker 4:	Allocations: 93504273 (Pool: 93503492; Big: 781); GC: 102
+      From worker 11:	
+      From worker 11:	[5414] signal 15: Terminated
+      From worker 11:	in expression starting at none:0
+      From worker 11:	zgemm_beta_SKYLAKEX at /home/zxli_1/KAP/julia-1.11.7/bin/../lib/julia/libopenblas64_.so (unknown line)
+      From worker 11:	unknown function (ip: (nil))
+      From worker 11:	Allocations: 96289435 (Pool: 96288654; Big: 781); GC: 102
+      From worker 10:	
+      From worker 10:	[5412] signal 15: Terminated
+      From worker 10:	in expression starting at none:0
+      From worker 10:	zgemm_beta_SKYLAKEX at /home/zxli_1/KAP/julia-1.11.7/bin/../lib/julia/libopenblas64_.so (unknown line)
+      From worker 10:	unknown function (ip: (nil))
+      From worker 10:	Allocations: 96936832 (Pool: 96936051; Big: 781); GC: 103
+      From worker 2:	
+      From worker 2:	[5401] signal 15: Terminated
+      From worker 2:	in expression starting at none:0
+      From worker 2:	zgemm_beta_SKYLAKEX at /home/zxli_1/KAP/julia-1.11.7/bin/../lib/julia/libopenblas64_.so (unknown line)
+      From worker 2:	unknown function (ip: (nil))
+      From worker 2:	Allocations: 93486423 (Pool: 93485642; Big: 781); GC: 101
+      From worker 5:	
+      From worker 5:	[5405] signal 15: Terminated
+      From worker 5:	in expression starting at none:0
+      From worker 5:	zgemm_beta_SKYLAKEX at /home/zxli_1/KAP/julia-1.11.7/bin/../lib/julia/libopenblas64_.so (unknown line)
+      From worker 5:	unknown function (ip: (nil))
+      From worker 5:	Allocations: 94719824 (Pool: 94719043; Big: 781); GC: 103
+      From worker 7:	
+      From worker 7:	[5407] signal 15: Terminated
+      From worker 7:	in expression starting at none:0
+      From worker 7:	zgemm_kernel_n_SKYLAKEX at /home/zxli_1/KAP/julia-1.11.7/bin/../lib/julia/libopenblas64_.so (unknown line)
+      From worker 7:	zgemm_nn at /home/zxli_1/KAP/julia-1.11.7/bin/../lib/julia/libopenblas64_.so (unknown line)
+      From worker 7:	zgemm_64_ at /home/zxli_1/KAP/julia-1.11.7/bin/../lib/julia/libopenblas64_.so (unknown line)
+      From worker 7:	gemm! at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/LinearAlgebra/src/blas.jl:1644
+      From worker 7:	gemm_wrapper! at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/LinearAlgebra/src/matmul.jl:657
+      From worker 7:	generic_matmatmul! at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/LinearAlgebra/src/matmul.jl:381 [inlined]
+      From worker 7:	_mul! at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/LinearAlgebra/src/matmul.jl:287 [inlined]
+      From worker 7:	mul! at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/LinearAlgebra/src/matmul.jl:285 [inlined]
+      From worker 7:	mul! at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/LinearAlgebra/src/matmul.jl:253 [inlined]
+      From worker 7:	G4update! at /home/zxli_1/KAP/SOURCE/tUDQMC/SCEE.jl:509
+      From worker 7:	ctrl_SCEEicr at /home/zxli_1/KAP/SOURCE/tUDQMC/SCEE.jl:332
+      From worker 7:	macro expansion at /home/zxli_1/KAP/tUdata/HC/SCEErun.jl:66 [inlined]
+      From worker 7:	#3 at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/macros.jl:303
+      From worker 7:	#186 at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/macros.jl:83
+      From worker 7:	unknown function (ip: 0x2b22e5b2636f)
+      From worker 7:	jl_apply at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/julia.h:2157 [inlined]
+      From worker 7:	jl_f__call_latest at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/builtins.c:875
+      From worker 7:	#invokelatest#2 at ./essentials.jl:1055 [inlined]
+      From worker 7:	invokelatest at ./essentials.jl:1052
+      From worker 7:	unknown function (ip: 0x2b22e5ac9d52)
+      From worker 7:	jl_apply at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/julia.h:2157 [inlined]
+      From worker 7:	do_apply at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/builtins.c:831
+      From worker 7:	#115 at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/process_messages.jl:283
+      From worker 7:	run_work_thunk at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/process_messages.jl:70
+      From worker 7:	unknown function (ip: 0x2b22e5ad950b)
+      From worker 7:	run_work_thunk at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/process_messages.jl:79
+      From worker 7:	#108 at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/process_messages.jl:88
+      From worker 7:	unknown function (ip: 0x2b22e5ad904f)
+      From worker 7:	jl_apply at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/julia.h:2157 [inlined]
+      From worker 7:	start_task at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/task.c:1202
+      From worker 7:	unknown function (ip: (nil))
+      From worker 7:	Allocations: 95951464 (Pool: 95950683; Big: 781); GC: 104
+      From worker 8:	
+      From worker 8:	[5408] signal 15: Terminated
+      From worker 8:	in expression starting at none:0
+      From worker 8:	zgemm_kernel_n_SKYLAKEX at /home/zxli_1/KAP/julia-1.11.7/bin/../lib/julia/libopenblas64_.so (unknown line)
+      From worker 8:	zgemm_nn at /home/zxli_1/KAP/julia-1.11.7/bin/../lib/julia/libopenblas64_.so (unknown line)
+      From worker 8:	zgemm_64_ at /home/zxli_1/KAP/julia-1.11.7/bin/../lib/julia/libopenblas64_.so (unknown line)
+      From worker 8:	gemm! at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/LinearAlgebra/src/blas.jl:1644
+      From worker 8:	gemm_wrapper! at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/LinearAlgebra/src/matmul.jl:657
+      From worker 8:	generic_matmatmul! at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/LinearAlgebra/src/matmul.jl:381 [inlined]
+      From worker 8:	_mul! at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/LinearAlgebra/src/matmul.jl:287 [inlined]
+      From worker 8:	mul! at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/LinearAlgebra/src/matmul.jl:285 [inlined]
+      From worker 8:	mul! at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/LinearAlgebra/src/matmul.jl:253 [inlined]
+      From worker 8:	G4update! at /home/zxli_1/KAP/SOURCE/tUDQMC/SCEE.jl:511
+      From worker 8:	ctrl_SCEEicr at /home/zxli_1/KAP/SOURCE/tUDQMC/SCEE.jl:377
+      From worker 8:	macro expansion at /home/zxli_1/KAP/tUdata/HC/SCEErun.jl:66 [inlined]
+      From worker 8:	#3 at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/macros.jl:303
+      From worker 8:	#186 at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/macros.jl:83
+      From worker 8:	unknown function (ip: 0x2ad3c2c8834f)
+      From worker 8:	jl_apply at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/julia.h:2157 [inlined]
+      From worker 8:	jl_f__call_latest at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/builtins.c:875
+      From worker 8:	#invokelatest#2 at ./essentials.jl:1055 [inlined]
+      From worker 8:	invokelatest at ./essentials.jl:1052
+      From worker 8:	unknown function (ip: 0x2ad3c2c2bd42)
+      From worker 8:	jl_apply at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/julia.h:2157 [inlined]
+      From worker 8:	do_apply at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/builtins.c:831
+      From worker 8:	#115 at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/process_messages.jl:283
+      From worker 8:	run_work_thunk at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/process_messages.jl:70
+      From worker 8:	unknown function (ip: 0x2ad3c2c3b4fb)
+      From worker 8:	run_work_thunk at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/process_messages.jl:79
+      From worker 8:	#108 at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/process_messages.jl:88
+      From worker 8:	unknown function (ip: 0x2ad3c2c3b03f)
+      From worker 8:	jl_apply at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/julia.h:2157 [inlined]
+      From worker 8:	start_task at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/task.c:1202
+      From worker 8:	unknown function (ip: (nil))
+      From worker 8:	Allocations: 96290871 (Pool: 96290090; Big: 781); GC: 103
+      From worker 9:	
+      From worker 9:	[5410] signal 15: Terminated
+      From worker 9:	in expression starting at none:0
+      From worker 9:	zaxpy_kernel_4 at /home/zxli_1/KAP/julia-1.11.7/bin/../lib/julia/libopenblas64_.so (unknown line)
+      From worker 9:	zaxpy_k_SKYLAKEX at /home/zxli_1/KAP/julia-1.11.7/bin/../lib/julia/libopenblas64_.so (unknown line)
+      From worker 9:	zaxpy_64_ at /home/zxli_1/KAP/julia-1.11.7/bin/../lib/julia/libopenblas64_.so (unknown line)
+      From worker 9:	axpy! at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/LinearAlgebra/src/blas.jl:513
+      From worker 9:	axpy! at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/LinearAlgebra/src/blas.jl:525 [inlined]
+      From worker 9:	axpy! at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/LinearAlgebra/src/generic.jl:1523 [inlined]
+      From worker 9:	G4update! at /home/zxli_1/KAP/SOURCE/tUDQMC/SCEE.jl:512
+      From worker 9:	ctrl_SCEEicr at /home/zxli_1/KAP/SOURCE/tUDQMC/SCEE.jl:377
+      From worker 9:	macro expansion at /home/zxli_1/KAP/tUdata/HC/SCEErun.jl:66 [inlined]
+      From worker 9:	#3 at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/macros.jl:303
+      From worker 9:	#186 at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/macros.jl:83
+      From worker 9:	unknown function (ip: 0x2b6fdfdb936f)
+      From worker 9:	jl_apply at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/julia.h:2157 [inlined]
+      From worker 9:	jl_f__call_latest at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/builtins.c:875
+      From worker 9:	#invokelatest#2 at ./essentials.jl:1055 [inlined]
+      From worker 9:	invokelatest at ./essentials.jl:1052
+      From worker 9:	unknown function (ip: 0x2b6fdfd5cd52)
+      From worker 9:	jl_apply at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/julia.h:2157 [inlined]
+      From worker 9:	do_apply at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/builtins.c:831
+      From worker 9:	#115 at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/process_messages.jl:283
+      From worker 9:	run_work_thunk at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/process_messages.jl:70
+      From worker 9:	unknown function (ip: 0x2b6fdfd6c50b)
+      From worker 9:	run_work_thunk at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/process_messages.jl:79
+      From worker 9:	#108 at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/process_messages.jl:88
+      From worker 9:	unknown function (ip: 0x2b6fdfd6c04f)
+      From worker 9:	jl_apply at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/julia.h:2157 [inlined]
+      From worker 9:	start_task at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/task.c:1202
+      From worker 9:	unknown function (ip: (nil))
+      From worker 9:	Allocations: 92749237 (Pool: 92748456; Big: 781); GC: 100
+      From worker 6:	
+      From worker 6:	[5406] signal 15: Terminated
+      From worker 6:	in expression starting at none:0
+      From worker 6:	zaxpy_kernel_4 at /home/zxli_1/KAP/julia-1.11.7/bin/../lib/julia/libopenblas64_.so (unknown line)
+      From worker 6:	zaxpy_k_SKYLAKEX at /home/zxli_1/KAP/julia-1.11.7/bin/../lib/julia/libopenblas64_.so (unknown line)
+      From worker 6:	zaxpy_64_ at /home/zxli_1/KAP/julia-1.11.7/bin/../lib/julia/libopenblas64_.so (unknown line)
+      From worker 6:	axpy! at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/LinearAlgebra/src/blas.jl:513
+      From worker 6:	axpy! at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/LinearAlgebra/src/blas.jl:525 [inlined]
+      From worker 6:	axpy! at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/LinearAlgebra/src/generic.jl:1523 [inlined]
+      From worker 6:	G4update! at /home/zxli_1/KAP/SOURCE/tUDQMC/SCEE.jl:520
+      From worker 6:	ctrl_SCEEicr at /home/zxli_1/KAP/SOURCE/tUDQMC/SCEE.jl:377
+      From worker 6:	macro expansion at /home/zxli_1/KAP/tUdata/HC/SCEErun.jl:66 [inlined]
+      From worker 6:	#3 at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/macros.jl:303
+      From worker 6:	#186 at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/macros.jl:83
+      From worker 6:	unknown function (ip: 0x2b732c85d3cf)
+      From worker 6:	jl_apply at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/julia.h:2157 [inlined]
+      From worker 6:	jl_f__call_latest at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/builtins.c:875
+      From worker 6:	#invokelatest#2 at ./essentials.jl:1055 [inlined]
+      From worker 6:	invokelatest at ./essentials.jl:1052
+      From worker 6:	unknown function (ip: 0x2b732c800d42)
+      From worker 6:	jl_apply at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/julia.h:2157 [inlined]
+      From worker 6:	do_apply at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/builtins.c:831
+      From worker 6:	#115 at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/process_messages.jl:283
+      From worker 6:	run_work_thunk at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/process_messages.jl:70
+      From worker 6:	unknown function (ip: 0x2b732c8104fb)
+      From worker 6:	run_work_thunk at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/process_messages.jl:79
+      From worker 6:	#108 at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/process_messages.jl:88
+      From worker 6:	unknown function (ip: 0x2b732c81003f)
+      From worker 6:	jl_apply at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/julia.h:2157 [inlined]
+      From worker 6:	start_task at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/task.c:1202
+      From worker 6:	unknown function (ip: (nil))
+      From worker 6:	Allocations: 92995500 (Pool: 92994719; Big: 781); GC: 95
+      From worker 3:	
+      From worker 3:	[5403] signal 15: Terminated
+      From worker 3:	in expression starting at none:0
+      From worker 3:	zgemm_kernel_n_SKYLAKEX at /home/zxli_1/KAP/julia-1.11.7/bin/../lib/julia/libopenblas64_.so (unknown line)
+      From worker 3:	zgemm_nn at /home/zxli_1/KAP/julia-1.11.7/bin/../lib/julia/libopenblas64_.so (unknown line)
+      From worker 3:	zgemm_64_ at /home/zxli_1/KAP/julia-1.11.7/bin/../lib/julia/libopenblas64_.so (unknown line)
+      From worker 3:	gemm! at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/LinearAlgebra/src/blas.jl:1644
+      From worker 3:	gemm_wrapper! at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/LinearAlgebra/src/matmul.jl:657
+      From worker 3:	generic_matmatmul! at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/LinearAlgebra/src/matmul.jl:381 [inlined]
+      From worker 3:	_mul! at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/LinearAlgebra/src/matmul.jl:287 [inlined]
+      From worker 3:	mul! at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/LinearAlgebra/src/matmul.jl:285 [inlined]
+      From worker 3:	mul! at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/LinearAlgebra/src/matmul.jl:253 [inlined]
+      From worker 3:	G4update! at /home/zxli_1/KAP/SOURCE/tUDQMC/SCEE.jl:519
+      From worker 3:	ctrl_SCEEicr at /home/zxli_1/KAP/SOURCE/tUDQMC/SCEE.jl:377
+      From worker 3:	macro expansion at /home/zxli_1/KAP/tUdata/HC/SCEErun.jl:66 [inlined]
+      From worker 3:	#3 at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/macros.jl:303
+      From worker 3:	#186 at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/macros.jl:83
+      From worker 3:	unknown function (ip: 0x2acc7951e45f)
+      From worker 3:	jl_apply at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/julia.h:2157 [inlined]
+      From worker 3:	jl_f__call_latest at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/builtins.c:875
+      From worker 3:	#invokelatest#2 at ./essentials.jl:1055 [inlined]
+      From worker 3:	invokelatest at ./essentials.jl:1052
+      From worker 3:	unknown function (ip: 0x2acc794c1d42)
+      From worker 3:	jl_apply at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/julia.h:2157 [inlined]
+      From worker 3:	do_apply at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/builtins.c:831
+      From worker 3:	#115 at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/process_messages.jl:283
+      From worker 3:	run_work_thunk at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/process_messages.jl:70
+      From worker 3:	unknown function (ip: 0x2acc794d14fb)
+      From worker 3:	run_work_thunk at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/process_messages.jl:79
+      From worker 3:	#108 at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/usr/share/julia/stdlib/v1.11/Distributed/src/process_messages.jl:88
+      From worker 3:	unknown function (ip: 0x2acc794d103f)
+      From worker 3:	jl_apply at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/julia.h:2157 [inlined]
+      From worker 3:	start_task at /cache/build/builder-demeter6-3/julialang/julia-release-1-dot-11/src/task.c:1202
+      From worker 3:	unknown function (ip: (nil))
+      From worker 3:	Allocations: 92256415 (Pool: 92255634; Big: 781); GC: 94

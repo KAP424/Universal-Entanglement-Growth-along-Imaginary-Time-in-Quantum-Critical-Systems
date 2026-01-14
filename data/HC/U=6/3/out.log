@@ -1,0 +1,48 @@
+2025-12-23 04:35:05  2 processes added.
+model finished in 00:00:03
+      From worker 2:	size[3, 3]  Δt0.03  Θ2.7  Sweep 82 finished in 00:00:06
+      From worker 3:	size[3, 3]  Δt0.03  Θ2.7  Sweep 82 finished in 00:00:06
+2025-12-23 04:35:40  All processes finished in 00:00:27
+
+2025-12-23 04:35:05  2 processes added.
+model finished in 00:00:04
+      From worker 3:	size[3, 3]  Δt0.03  Θ2.7  Sweep 82 finished in 00:00:06
+      From worker 2:	size[3, 3]  Δt0.03  Θ2.7  Sweep 82 finished in 00:00:06
+2025-12-23 04:35:40  All processes finished in 00:00:28
+
+2025-12-23 04:35:06  2 processes added.
+model finished in 00:00:03
+      From worker 3:	size[3, 3]  Δt0.03  Θ3.0  Sweep 82 finished in 00:00:07
+      From worker 2:	size[3, 3]  Δt0.03  Θ3.0  Sweep 82 finished in 00:00:07
+2025-12-23 04:35:42  All processes finished in 00:00:28
+
+2025-12-23 04:35:30  2 processes added.
+model finished in 00:00:02
+      From worker 3:	size[3, 3]  Δt0.03  Θ3.3  Sweep 82 finished in 00:00:07
+      From worker 2:	size[3, 3]  Δt0.03  Θ3.3  Sweep 82 finished in 00:00:07
+2025-12-23 04:36:00  All processes finished in 00:00:24
+
+2025-12-23 04:35:34  2 processes added.
+model finished in 00:00:03
+      From worker 3:	size[3, 3]  Δt0.03  Θ3.3  Sweep 82 finished in 00:00:07
+      From worker 2:	size[3, 3]  Δt0.03  Θ3.3  Sweep 82 finished in 00:00:07
+2025-12-23 04:36:08  All processes finished in 00:00:27
+
+2025-12-23 04:35:33  2 processes added.
+model finished in 00:00:03
+      From worker 2:	size[3, 3]  Δt0.03  Θ3.0  Sweep 82 finished in 00:00:07
+      From worker 3:	size[3, 3]  Δt0.03  Θ3.0  Sweep 82 finished in 00:00:07
+2025-12-23 04:36:10  All processes finished in 00:00:29
+
+2025-12-23 04:35:33  2 processes added.
+model finished in 00:00:03
+      From worker 2:	size[3, 3]  Δt0.03  Θ3.6  Sweep 82 finished in 00:00:09
+      From worker 3:	size[3, 3]  Δt0.03  Θ3.6  Sweep 82 finished in 00:00:09
+2025-12-23 04:36:11  All processes finished in 00:00:31
+
+2025-12-23 04:35:39  2 processes added.
+model finished in 00:00:04
+      From worker 2:	size[3, 3]  Δt0.03  Θ3.6  Sweep 82 finished in 00:00:09
+      From worker 3:	size[3, 3]  Δt0.03  Θ3.6  Sweep 82 finished in 00:00:09
+2025-12-23 04:36:26  All processes finished in 00:00:40
+
