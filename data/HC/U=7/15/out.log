@@ -1,0 +1,648 @@
+2025-12-25 14:35:09  4 processes added.
+model finished in 00:00:03
+      From worker 3:	size[15, 15]  Δt0.03  Θ2.7  Sweep 22 finished in 11:23:48
+      From worker 2:	size[15, 15]  Δt0.03  Θ2.7  Sweep 22 finished in 11:24:56
+      From worker 5:	size[15, 15]  Δt0.03  Θ2.7  Sweep 22 finished in 11:38:05
+      From worker 4:	size[15, 15]  Δt0.03  Θ2.7  Sweep 22 finished in 12:05:06
+2025-12-26 02:40:45  All processes finished in 12:05:29
+
+2025-12-25 14:41:44  4 processes added.
+model finished in 00:00:04
+      From worker 2:	size[15, 15]  Δt0.03  Θ2.7  Sweep 22 finished in 10:49:19
+      From worker 3:	size[15, 15]  Δt0.03  Θ2.7  Sweep 22 finished in 10:53:27
+      From worker 4:	size[15, 15]  Δt0.03  Θ2.7  Sweep 22 finished in 11:42:56
+      From worker 5:	size[15, 15]  Δt0.03  Θ2.7  Sweep 22 finished in 12:00:25
+2025-12-26 02:42:45  All processes finished in 12:00:51
+
+2025-12-25 15:09:33  4 processes added.
+model finished in 00:00:04
+      From worker 4:	size[15, 15]  Δt0.03  Θ2.7  Sweep 22 finished in 10:51:11
+      From worker 2:	size[15, 15]  Δt0.03  Θ2.7  Sweep 22 finished in 11:15:35
+      From worker 5:	size[15, 15]  Δt0.03  Θ2.7  Sweep 22 finished in 11:17:40
+      From worker 3:	size[15, 15]  Δt0.03  Θ2.7  Sweep 22 finished in 11:34:25
+2025-12-26 02:44:35  All processes finished in 11:34:53
+
+2025-12-25 14:49:11  4 processes added.
+model finished in 00:00:05
+      From worker 4:	size[15, 15]  Δt0.03  Θ2.7  Sweep 22 finished in 10:55:38
+      From worker 5:	size[15, 15]  Δt0.03  Θ2.7  Sweep 22 finished in 11:09:15
+      From worker 3:	size[15, 15]  Δt0.03  Θ2.7  Sweep 22 finished in 11:25:13
+      From worker 2:	size[15, 15]  Δt0.03  Θ2.7  Sweep 22 finished in 12:00:37
+2025-12-26 02:50:29  All processes finished in 12:01:08
+
+2025-12-25 16:17:16  4 processes added.
+model finished in 00:00:04
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:31:57
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:32:57
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:33:17
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:34:21
+2025-12-26 02:52:07  All processes finished in 10:34:43
+
+2025-12-25 16:55:16  4 processes added.
+model finished in 00:00:03
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:26:07
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:54:51
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:57:16
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:57:33
+2025-12-26 02:53:16  All processes finished in 09:57:54
+
+2025-12-25 16:52:46  4 processes added.
+model finished in 00:00:03
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:26:42
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:56:12
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:58:51
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:01:09
+2025-12-26 02:54:22  All processes finished in 10:01:29
+
+2025-12-25 16:50:46  4 processes added.
+model finished in 00:00:03
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:49:38
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:51:15
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:53:38
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:06:23
+2025-12-26 02:57:37  All processes finished in 10:06:45
+
+2025-12-25 16:17:14  4 processes added.
+model finished in 00:00:03
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:27:18
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:29:39
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:30:52
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:42:02
+2025-12-26 02:59:44  All processes finished in 10:42:24
+
+2025-12-25 14:47:38  4 processes added.
+model finished in 00:00:05
+      From worker 5:	size[15, 15]  Δt0.03  Θ2.7  Sweep 22 finished in 10:59:28
+      From worker 4:	size[15, 15]  Δt0.03  Θ2.7  Sweep 22 finished in 11:12:27
+      From worker 2:	size[15, 15]  Δt0.03  Θ2.7  Sweep 22 finished in 11:22:23
+      From worker 3:	size[15, 15]  Δt0.03  Θ2.7  Sweep 22 finished in 12:15:43
+2025-12-26 03:04:00  All processes finished in 12:16:12
+
+2025-12-25 16:28:26  4 processes added.
+model finished in 00:00:03
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:27:08
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:27:18
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:32:36
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:36:13
+2025-12-26 03:05:06  All processes finished in 10:36:33
+
+2025-12-25 16:50:46  4 processes added.
+model finished in 00:00:03
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:52:00
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:53:11
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:14:02
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:15:46
+2025-12-26 03:07:00  All processes finished in 10:16:07
+
+2025-12-25 16:34:56  4 processes added.
+model finished in 00:00:03
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:17:21
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:28:42
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:29:41
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:35:41
+2025-12-26 03:11:06  All processes finished in 10:36:03
+
+2025-12-25 16:50:13  4 processes added.
+model finished in 00:00:03
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:25:30
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:25:44
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:26:12
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:28:36
+2025-12-26 03:19:16  All processes finished in 10:28:57
+
+2025-12-25 16:46:44  4 processes added.
+model finished in 00:00:04
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:29:42
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:32:38
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:34:09
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:34:45
+2025-12-26 03:21:59  All processes finished in 10:35:07
+
+2025-12-25 16:43:43  4 processes added.
+model finished in 00:00:04
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:31:40
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:32:57
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:36:25
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:39:54
+2025-12-26 03:24:07  All processes finished in 10:40:16
+
+2025-12-25 15:13:18  4 processes added.
+model finished in 00:00:04
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:36:32
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:41:34
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:42:37
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:43:59
+2025-12-26 03:57:45  All processes finished in 12:44:20
+
+2025-12-25 15:11:21  4 processes added.
+model finished in 00:00:04
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:13:47
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:41:59
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:44:32
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:50:03
+2025-12-26 04:01:51  All processes finished in 12:50:23
+
+2025-12-25 15:17:48  4 processes added.
+model finished in 00:00:04
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:01:19
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:10:54
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:32:56
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:43:28
+2025-12-26 04:01:55  All processes finished in 12:43:57
+
+2025-12-25 15:15:58  4 processes added.
+model finished in 00:00:04
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:33:44
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:41:05
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:41:14
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:48:16
+2025-12-26 04:04:47  All processes finished in 12:48:41
+
+2025-12-25 15:14:38  4 processes added.
+model finished in 00:00:04
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:12:33
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:17:11
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:29:47
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:56:42
+2025-12-26 04:11:56  All processes finished in 12:57:10
+
+2025-12-25 15:13:05  4 processes added.
+model finished in 00:00:03
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:35:59
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:37:37
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:50:26
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:03:48
+2025-12-26 04:17:22  All processes finished in 13:04:09
+
+2025-12-25 15:38:09  4 processes added.
+model finished in 00:00:04
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:30:59
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:35:26
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:42:16
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:44:05
+2025-12-26 04:22:53  All processes finished in 12:44:34
+
+2025-12-25 16:20:24  4 processes added.
+model finished in 00:00:03
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 11:43:51
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 11:45:19
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 12:01:11
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 12:02:44
+2025-12-26 04:23:39  All processes finished in 12:03:08
+
+2025-12-25 16:08:49  4 processes added.
+model finished in 00:00:02
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 12:09:35
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 12:10:59
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 12:12:34
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 12:15:38
+2025-12-26 04:24:58  All processes finished in 12:16:05
+
+2025-12-25 15:40:20  4 processes added.
+model finished in 00:00:04
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:12:05
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:35:46
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:44:21
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:48:57
+2025-12-26 04:29:51  All processes finished in 12:49:23
+
+2025-12-25 16:12:53  4 processes added.
+model finished in 00:00:06
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 12:07:19
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 12:07:26
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 12:10:11
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 12:16:59
+2025-12-26 04:31:00  All processes finished in 12:17:54
+
+2025-12-25 16:20:24  4 processes added.
+model finished in 00:00:03
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 11:47:02
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 11:47:44
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 11:48:55
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 12:10:35
+2025-12-26 04:31:30  All processes finished in 12:10:59
+
+2025-12-25 15:34:52  4 processes added.
+model finished in 00:00:04
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:32:27
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:41:54
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:43:00
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:58:28
+2025-12-26 04:33:52  All processes finished in 12:58:52
+
+2025-12-25 15:26:34  4 processes added.
+model finished in 00:00:03
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:54:32
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:02:10
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:04:45
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:07:43
+2025-12-26 04:35:08  All processes finished in 13:08:26
+
+2025-12-25 15:26:34  4 processes added.
+model finished in 00:00:04
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:04:41
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:06:43
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:07:42
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:10:10
+2025-12-26 04:37:38  All processes finished in 13:10:55
+
+2025-12-25 15:28:35  4 processes added.
+model finished in 00:00:04
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:05:24
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:07:15
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:07:59
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:09:02
+2025-12-26 04:38:04  All processes finished in 13:09:19
+
+2025-12-25 15:29:13  4 processes added.
+model finished in 00:00:06
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:04:08
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:05:51
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:06:26
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:08:10
+2025-12-26 04:38:13  All processes finished in 13:08:43
+
+2025-12-25 15:29:22  4 processes added.
+model finished in 00:00:10
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:06:14
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:06:41
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:08:01
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:08:05
+2025-12-26 04:38:14  All processes finished in 13:08:32
+
+2025-12-25 15:29:00  4 processes added.
+model finished in 00:00:06
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:03:18
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:06:44
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:08:13
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:12:33
+2025-12-26 04:42:20  All processes finished in 13:13:08
+
+2025-12-25 15:29:49  4 processes added.
+model finished in 00:00:06
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:06:14
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:06:44
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:13:43
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:14:44
+2025-12-26 04:45:01  All processes finished in 13:15:00
+
+2025-12-25 15:29:46  4 processes added.
+model finished in 00:00:05
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:09:03
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:12:00
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:17:02
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:18:28
+2025-12-26 04:48:46  All processes finished in 13:18:48
+
+2025-12-25 15:38:28  4 processes added.
+model finished in 00:00:04
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:29:24
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:33:40
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:37:09
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:14:10
+2025-12-26 04:53:10  All processes finished in 13:14:34
+
+2025-12-25 15:51:29  4 processes added.
+model finished in 00:00:09
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:59:21
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:00:16
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:00:24
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:01:47
+2025-12-26 04:53:58  All processes finished in 13:02:13
+
+2025-12-25 15:38:39  4 processes added.
+model finished in 00:00:04
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:36:03
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:43:34
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:15:37
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:17:23
+2025-12-26 04:56:33  All processes finished in 13:17:47
+
+2025-12-25 15:52:10  4 processes added.
+model finished in 00:00:08
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 12:54:48
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:00:55
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:05:38
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.0  Sweep 22 finished in 13:06:51
+2025-12-26 04:59:52  All processes finished in 13:07:23
+
+2025-12-25 15:59:11  4 processes added.
+model finished in 00:00:04
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:17:37
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:19:15
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:20:30
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:20:35
+2025-12-26 05:20:17  All processes finished in 13:20:59
+
+2025-12-25 15:55:51  4 processes added.
+model finished in 00:00:04
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:11:59
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:20:54
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:24:55
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:30:49
+2025-12-26 05:27:13  All processes finished in 13:31:13
+
+2025-12-25 16:06:50  4 processes added.
+model finished in 00:00:04
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 12:51:51
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:15:13
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:15:30
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:45:23
+2025-12-26 05:52:51  All processes finished in 13:45:52
+
+2025-12-25 23:08:52  4 processes added.
+model finished in 00:00:04
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 08:51:28
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 08:53:13
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 08:53:54
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 08:57:15
+2025-12-26 08:06:42  All processes finished in 08:57:41
+
+2025-12-25 23:41:30  4 processes added.
+model finished in 00:00:05
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 08:32:34
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 08:36:25
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 08:39:27
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 08:43:44
+2025-12-26 08:25:47  All processes finished in 08:44:08
+
+2025-12-26 02:12:19  4 processes added.
+model finished in 00:00:04
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 07:17:07
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 07:18:19
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 07:18:51
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 07:22:50
+2025-12-26 09:35:44  All processes finished in 07:23:16
+
+2025-12-26 00:21:10  4 processes added.
+model finished in 00:00:04
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 09:38:45
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 09:39:57
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 09:51:42
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 09:55:38
+2025-12-26 10:17:20  All processes finished in 09:56:02
+
+2025-12-26 00:37:52  4 processes added.
+model finished in 00:00:04
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 09:38:34
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 09:39:44
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 09:47:32
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 09:51:06
+2025-12-26 10:29:31  All processes finished in 09:51:31
+
+2025-12-26 00:08:05  4 processes added.
+model finished in 00:00:04
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 09:46:55
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 10:05:02
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 10:08:39
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 10:26:10
+2025-12-26 10:35:14  All processes finished in 10:26:59
+
+2025-12-26 00:40:48  4 processes added.
+model finished in 00:00:04
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 09:43:02
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 09:43:17
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 09:59:00
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 10:07:20
+2025-12-26 10:48:46  All processes finished in 10:07:49
+
+2025-12-26 02:15:29  4 processes added.
+model finished in 00:00:04
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:20:34
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:34:15
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:38:42
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:44:22
+2025-12-26 12:00:20  All processes finished in 09:44:44
+
+2025-12-26 01:30:22  4 processes added.
+model finished in 00:00:05
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:12:56
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:25:44
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:27:16
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:30:08
+2025-12-26 12:01:09  All processes finished in 10:30:37
+
+2025-12-26 02:13:47  4 processes added.
+model finished in 00:00:04
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:13:31
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:16:03
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:17:37
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:50:16
+2025-12-26 12:04:33  All processes finished in 09:50:38
+
+2025-12-26 02:29:03  4 processes added.
+model finished in 00:00:03
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:11:12
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:12:05
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:14:50
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:40:02
+2025-12-26 12:09:34  All processes finished in 09:40:24
+
+2025-12-26 02:40:39  4 processes added.
+model finished in 00:00:04
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:03:46
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:30:49
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:32:08
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:42:34
+2025-12-26 12:23:46  All processes finished in 09:42:58
+
+2025-12-26 02:28:47  4 processes added.
+model finished in 00:00:04
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:44:46
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:45:56
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:57:48
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 09:59:54
+2025-12-26 12:29:10  All processes finished in 10:00:16
+
+2025-12-26 00:11:46  4 processes added.
+model finished in 00:00:04
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 12:14:46
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 12:15:03
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 12:16:58
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 12:18:00
+2025-12-26 12:30:19  All processes finished in 12:18:25
+
+2025-12-26 00:37:43  4 processes added.
+model finished in 00:00:04
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 09:28:06
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 10:40:25
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 12:16:48
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 12:17:10
+2025-12-26 12:55:25  All processes finished in 12:17:35
+
+2025-12-26 00:00:37  4 processes added.
+model finished in 00:00:07
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:11:33
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:13:53
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:16:55
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:19:28
+2025-12-26 13:20:49  All processes finished in 13:19:58
+
+2025-12-25 23:57:51  4 processes added.
+model finished in 00:00:04
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 12:57:27
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:16:58
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:31:24
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:55:10
+2025-12-26 13:53:36  All processes finished in 13:55:36
+
+2025-12-26 00:03:34  4 processes added.
+model finished in 00:00:07
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:14:41
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:29:23
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:44:54
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:52:41
+2025-12-26 13:56:54  All processes finished in 13:53:06
+
+2025-12-26 00:09:06  4 processes added.
+model finished in 00:00:04
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 12:46:37
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 12:56:28
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:49:06
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:50:03
+2025-12-26 14:00:00  All processes finished in 13:50:45
+
+2025-12-26 00:13:41  4 processes added.
+model finished in 00:00:07
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:04:49
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:43:05
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:48:12
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:50:00
+2025-12-26 14:04:20  All processes finished in 13:50:26
+
+2025-12-26 00:48:31  4 processes added.
+model finished in 00:00:04
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:38:02
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 13:12:24
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 13:16:06
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 13:17:48
+2025-12-26 14:06:52  All processes finished in 13:18:13
+
+2025-12-26 00:26:03  4 processes added.
+model finished in 00:00:04
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 12:54:39
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:26:43
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:27:59
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:43:03
+2025-12-26 14:09:42  All processes finished in 13:43:31
+
+2025-12-26 01:54:21  4 processes added.
+model finished in 00:00:03
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:19:54
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:26:27
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:26:48
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 12:16:16
+2025-12-26 14:11:10  All processes finished in 12:16:42
+
+2025-12-26 00:26:00  4 processes added.
+model finished in 00:00:04
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:08:17
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:22:58
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:32:23
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:46:20
+2025-12-26 14:12:54  All processes finished in 13:46:45
+
+2025-12-26 01:14:10  4 processes added.
+model finished in 00:00:08
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:27:46
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 12:43:17
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 12:59:09
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 12:59:17
+2025-12-26 14:14:14  All processes finished in 12:59:49
+
+2025-12-26 00:30:49  4 processes added.
+model finished in 00:00:04
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:29:49
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:41:15
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:43:35
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.3  Sweep 22 finished in 13:43:52
+2025-12-26 14:15:20  All processes finished in 13:44:22
+
+2025-12-26 02:29:40  4 processes added.
+model finished in 00:00:03
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:19:22
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:20:19
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:20:32
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 11:48:59
+2025-12-26 14:19:09  All processes finished in 11:49:23
+
+2025-12-26 00:55:47  4 processes added.
+model finished in 00:00:04
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 13:06:07
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 13:07:10
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 13:10:33
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 13:36:49
+2025-12-26 14:33:13  All processes finished in 13:37:17
+
+2025-12-26 02:04:52  4 processes added.
+model finished in 00:00:03
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:19:49
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:22:29
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:22:37
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 12:33:29
+2025-12-26 14:38:51  All processes finished in 12:33:52
+
+2025-12-26 02:18:48  4 processes added.
+model finished in 00:00:03
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:18:22
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:21:16
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 12:28:56
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 12:29:55
+2025-12-26 14:49:12  All processes finished in 12:30:18
+
+2025-12-26 02:32:16  4 processes added.
+model finished in 00:00:04
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 10:12:45
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 11:45:39
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 12:28:37
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 12:32:57
+2025-12-26 15:05:46  All processes finished in 12:33:22
+
+2025-12-26 00:43:06  4 processes added.
+model finished in 00:00:04
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 13:52:30
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 14:11:57
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 14:15:11
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 14:28:54
+2025-12-26 15:12:37  All processes finished in 14:29:22
+
+2025-12-26 01:37:32  4 processes added.
+model finished in 00:00:05
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 13:42:58
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 13:45:55
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 14:02:52
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 14:06:06
+2025-12-26 15:44:15  All processes finished in 14:06:32
+
+2025-12-26 01:34:48  4 processes added.
+model finished in 00:00:07
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 13:38:28
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 14:00:38
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 14:02:02
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 14:12:17
+2025-12-26 15:47:47  All processes finished in 14:12:45
+
+2025-12-26 02:07:39  4 processes added.
+model finished in 00:00:04
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 13:36:46
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 13:44:54
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 13:46:44
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 13:47:00
+2025-12-26 15:55:16  All processes finished in 13:47:27
+
+2025-12-26 02:02:50  4 processes added.
+model finished in 00:00:08
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 13:49:09
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 13:49:26
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 13:49:51
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 13:53:06
+2025-12-26 15:56:36  All processes finished in 13:53:31
+
+2025-12-26 02:26:41  4 processes added.
+model finished in 00:00:05
+      From worker 3:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 13:20:42
+      From worker 5:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 13:24:06
+      From worker 2:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 13:30:12
+      From worker 4:	size[15, 15]  Δt0.03  Θ3.6  Sweep 22 finished in 13:33:55
+2025-12-26 16:01:16  All processes finished in 13:34:24
+
