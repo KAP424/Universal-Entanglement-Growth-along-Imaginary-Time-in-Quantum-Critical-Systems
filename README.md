@@ -1,0 +1,1 @@
+# Universal-Entanglement-Growth-along-Imaginary-Time-in-Quantum-Critical-Systems
